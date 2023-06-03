@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+With a solid foundation established in 2012, I am a highly skilled and experienced data analytics professional who has honed expertise in various facets of the field. My career journey has taken me through the dynamic landscapes of startups, where I have excelled as a data scientist and data engineer. Additionally, my academic background includes a degree in machine learning, complemented by a minor in mathematics, providing me with a comprehensive understanding of the core principles and techniques driving the data analytics domain.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am self-motivated, emotionally intelligent, and consistently update my knowledge by delving into technology and academic literature. As a team player, I collaborate effectively to achieve shared goals and bring out the best in others. I am detail-oriented, driven by value, and have a keen ability to balance the financial aspects and impact of my work, ensuring timely and impactful results.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In summary, as a seasoned software engineer with a profound background in data analytics, I offer a unique blend of technical expertise, analytical acumen, and a strong foundation in machine learning and mathematics. I am eager to leverage my skills and experience to contribute to innovative projects and drive impactful insights through data analytics.
