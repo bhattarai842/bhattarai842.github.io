@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address:
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 With a solid foundation established in 2012, I am a highly skilled and experienced data analytics professional who has honed expertise in various facets of the field. My career journey has taken me through the dynamic landscapes of startups, where I have excelled as a data scientist and data engineer. Additionally, my academic background includes a degree in machine learning, complemented by a minor in mathematics, providing me with a comprehensive understanding of the core principles and techniques driving the data analytics domain.
